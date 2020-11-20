@@ -3,6 +3,8 @@
 My list of surveys on anomaly (intrusion) detection:
 
 * Fernandes, G., Rodrigues, J. J., Carvalho, L. F., Al-Muhtadi, J. F., & Proença, M. L. (2019). A comprehensive survey on network anomaly detection. Telecommunication Systems, 70(3), 447-489. https://link.springer.com/article/10.1007/s11235-018-0475-8
+    - Their survey analyse the problem on five dimensions: network traffic anomalies, network data types, intrusion detection systems categories, detection methods and
+systems, and open issues. It highlights that classification methods have the highest detection rates amongst all papers they reviewed.
 * Moustafa, N., Hu, J., & Slay, J. (2019). A holistic review of network anomaly detection systems: A comprehensive survey. Journal of Network and Computer Applications, 128, 33-55. https://www.sciencedirect.com/science/article/pii/S1084804518303886
 * Cook, A., Mısırlı, G., & Fan, Z. (2019). Anomaly detection for IoT time-series data: A survey. IEEE Internet of Things Journal. https://ieeexplore.ieee.org/iel7/6488907/6702522/08926446.pdf
 * Di Mattia, F., Galeone, P., De Simoni, M., & Ghelfi, E. (2019). A survey on gans for anomaly detection. arXiv preprint arXiv:1906.11632. https://arxiv.org/pdf/1906.11632
