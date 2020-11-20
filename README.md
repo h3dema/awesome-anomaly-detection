@@ -10,6 +10,7 @@ My list of surveys on anomaly (intrusion) detection:
 * Chandola, V., Banerjee, A., & Kumar, V. (2009). Anomaly detection: A survey. ACM computing surveys (CSUR), 41(3), 1-58. https://dl.acm.org/doi/pdf/10.1145/1541880.1541882
 * Sabahi, F., & Movaghar, A. (2008, October). Intrusion detection: A survey. In 2008 Third International Conference on Systems and Networks Communications (pp. 23-26). IEEE. https://www.academia.edu/download/44875590/2005-67.pdf
 
+---
 
 * Chalapathy, R., & Chawla, S. (2019). Deep learning for anomaly detection: A survey. arXiv preprint arXiv:1901.03407. https://arxiv.org/pdf/1901.03407
 * Kwon, D., Kim, H., Kim, J., Suh, S. C., Kim, I., & Kim, K. J. (2019). A survey of deep learning-based network anomaly detection. Cluster Computing, 1-13. https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10586-017-1117-8
