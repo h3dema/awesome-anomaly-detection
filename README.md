@@ -18,8 +18,11 @@ My list of surveys on anomaly (intrusion) detection:
 ---
 
 * Chalapathy, R., & Chawla, S. (2019). Deep learning for anomaly detection: A survey. arXiv preprint arXiv:1901.03407. https://arxiv.org/pdf/1901.03407
+    -  The survey presents a structured review of research methods in deep anomaly detection and also discusses the adoption of these methods across various application domains and assess their effectiveness.
 * Kwon, D., Kim, H., Kim, J., Suh, S. C., Kim, I., & Kim, K. J. (2019). A survey of deep learning-based network anomaly detection. Cluster Computing, 1-13. https://link.springer.com/article/10.1007/s10586-017-1117-8
 * Agrawal, S., & Agrawal, J. (2015). Survey on anomaly detection using data mining techniques. Procedia Computer Science, 60, 708-713. https://www.sciencedirect.com/science/article/pii/S1877050915023479/pdf
+    - This short work reviews various data mining techniques for anomaly detection
 * Zhang, W., Yang, Q., & Geng, Y. (2009, January). A survey of anomaly detection methods in networks. In 2009 International Symposium on Computer Network and Multimedia Technology (pp. 1-3). IEEE. https://ieeexplore.ieee.org/iel5/5374431/5374489/05374676.pdf
     - classifies the intrusion into clustering, classification, and hybrid
 * Tsai, C. F., Hsu, Y. F., Lin, C. Y., & Lin, W. Y. (2009). Intrusion detection by machine learning: A review. expert systems with applications, 36(10), 11994-12000. https://www.sciencedirect.com/science/article/pii/S0957417409004801
+    - This survey list related studies in the period between 2000 and 2007, viewing them as single, hybrid, and ensemble classifiers using machine learning techniques.
