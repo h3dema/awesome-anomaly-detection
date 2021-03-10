@@ -29,3 +29,11 @@ systems, and open issues. It highlights that classification methods have the hig
     - classifies the intrusion into clustering, classification, and hybrid
 * Tsai, C. F., Hsu, Y. F., Lin, C. Y., & Lin, W. Y. (2009). Intrusion detection by machine learning: A review. expert systems with applications, 36(10), 11994-12000. https://www.sciencedirect.com/science/article/pii/S0957417409004801
     - This survey list related studies in the period between 2000 and 2007, viewing them as single, hybrid, and ensemble classifiers using machine learning techniques.
+
+---
+
+# Matrix profile
+
+* https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
+* [Stumpy](https://github.com/TDAmeritrade/stumpy)
+* [MatrixProfile-ts](https://github.com/target/matrixprofile-ts)
